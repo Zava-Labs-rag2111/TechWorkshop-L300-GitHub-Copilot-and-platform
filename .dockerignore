@@ -1,0 +1,13 @@
+.git
+.gitignore
+.vscode
+.azure
+.dockerignore
+docs/
+media/
+*.md
+LICENSE
+SECURITY.md
+SUPPORT.md
+bin/
+obj/
